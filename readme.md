@@ -7,7 +7,7 @@
 
 ## 📁 Acesso ao projeto
 
-<a href="https://refined-github-html-preview.kidonng.workers.dev/leonardobehnck/imc/raw/main/index.html">Clique aqui para acessar a demo do projeto.</a>
+<a href="https://refined-github-html-preview.kidonng.workers.dev/leonardobehnck/imc/raw/main/imc.html">Clique aqui para acessar a demo do projeto.</a>
 
 ## :hammer: Funcionalidades do projeto
 
